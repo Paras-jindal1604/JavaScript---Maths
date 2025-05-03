@@ -64,17 +64,25 @@ console.log(Math.random()); // e.g., 0.573849123
 🔁 Random Numbers in Custom Ranges  -  1️⃣ Random Integer Between 0 and N (exclusive)
 
 
-function getRandomUpTo(max) {
+function getRandomUpTo(max)
+{
+
   return Math.floor(Math.random() * max);
+  
 }
+
 getRandomUpTo(10); // 0 to 9
 
 
 2️⃣ Random Integer Between Min and Max (inclusive)
 
-function getRandomInRange(min, max) {
+function getRandomInRange(min, max)
+{
+
   return Math.floor(Math.random() * (max - min + 1)) + min;
+  
 }
+
 getRandomInRange(5, 15); // 5 to 15 inclusive
 
 
