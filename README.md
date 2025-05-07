@@ -91,3 +91,9 @@ getRandomInRange(5, 15); // 5 to 15 inclusive
 
 Got a trick with Math.random() or a lesser-known method? Feel free to open a PR or issue!
 
+
+### Contact
+
+Thanks for checking out this project! If you found it useful, consider giving it a ⭐️.
+
+Created by Paras Jindal (https://github.com/Paras-jindal1604) – feel free to reach out!
