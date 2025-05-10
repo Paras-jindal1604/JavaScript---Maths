@@ -96,4 +96,4 @@ Got a trick with Math.random() or a lesser-known method? Feel free to open a PR 
 
 Thanks for checking out this project! If you found it useful, consider giving it a ⭐️.
 
-Created by Paras Jindal (https://github.com/Paras-jindal1604) – feel free to reach out!
+Created by [Paras Jindal](https://github.com/Paras-jindal1604) – feel free to reach out!
